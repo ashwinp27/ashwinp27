@@ -1,5 +1,4 @@
 ## Hi there 👋
-# 💫 About Me:
 # Hi, I'm Ashwin <br><br>I'm a Third-Year Information Technology Engineering student** focused on building **AI/ML and full-stack software.<br><br> Tech Stack<br><br>Languages: C++, Python, JavaScript, SQL<br>Frontend: React.js, HTML, CSS<br>Backend: Node.js, Express.js, FastAPI, REST APIs, Socket.IO<br>AI/ML:Scikit-learn, XGBoost, SHAP, LIME, Pandas, NumPy<br>Databases: MySQL, MongoDB<br>Tools: Git, GitHub, Docker<br><br><br>Currently Building<br><br> AI/ML systems that solve practical problems.<br> Full-stack applications and backend systems.<br> Intelligent developer tools and Explainable AI projects.
 
 
